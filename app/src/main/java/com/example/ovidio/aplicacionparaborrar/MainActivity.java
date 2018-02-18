@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     private SectionsPagerAdapter mSectionsPagerAdapter;
 
-    /**
+    /**hola soy edu feliznavidad
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
